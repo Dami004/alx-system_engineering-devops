@@ -1,1 +1,1 @@
-script
+shell redirections and variable

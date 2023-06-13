@@ -1,2 +1,2 @@
 #!/bin/bash
-hexadecimal=$(printf "%x" "$decimal")
+hexadecimal=$(printf "%x" "$DECIMAL")
